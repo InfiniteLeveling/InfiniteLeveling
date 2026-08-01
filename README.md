@@ -84,21 +84,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=00F2FE&text_color=94A3B8&bg_color=0D1117" alt="Gouranga's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dark&hide_border=true&title_color=00F2FE&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" width="49%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dark&hide_border=true&stroke=00F2FE&background=0D1117" alt="GitHub Streak" width="99%" />
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
