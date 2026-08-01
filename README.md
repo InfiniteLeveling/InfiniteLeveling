@@ -13,13 +13,13 @@
 
 <!-- SOCIAL & CONTACT BADGES -->
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:gourangabehera3551@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/gouranga-behera-337212416/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio-url.com">
+  <a href="https://idyllic-choux-73cbd1.netlify.app/#home">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-7A17BA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
