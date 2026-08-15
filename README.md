@@ -43,7 +43,7 @@
 
 <div align="left">
 
-[![Currently Working Status](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=38BDF8&background=00000000&center=false&vCenter=true&width=680&height=45&lines=⚡+Currently+focused+on+learning+JavaScript;🚀+Mastering+core+JS+concepts+%26+modern+ES6%2B;💻+Building+interactive+web+projects+with+Vanilla+JS;📚+Exploring+DOM+manipulation%2C+events+%26+async+JS;🎯+Deepening+problem-solving+skills+in+JavaScript; + learning+DSA)](https://git.io/typing-svg)
+[![Currently Working Status](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=38BDF8&background=00000000&center=false&vCenter=true&width=680&height=45&lines=⚡+Currently+focused+on+learning+JavaScript;🚀+Mastering+core+JS+concepts+%26+modern+ES6%2B;💻+Building+interactive+web+projects+with+Vanilla+JS;📚+Exploring+DOM+manipulation%2C+events+%26+async+JS;🎯+Deepening+problem-solving+skills+in+JavaScript)](https://git.io/typing-svg)
 
 </div>
 
